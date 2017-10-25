@@ -10,6 +10,8 @@ If you find additional resources, please contribute a pull request.
 
 If you have questions or comments, please create an issue.
 
+
+
 ## Contributing to open source in general
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language
